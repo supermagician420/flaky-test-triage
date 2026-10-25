@@ -1,0 +1,4 @@
+PASS test_login 140ms
+PASS test_checkout 300ms
+PASS test_search 45ms
+FAIL test_upload 950ms
